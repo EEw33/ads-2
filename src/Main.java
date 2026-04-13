@@ -19,7 +19,11 @@ public class Main {
                 task4.test();
                 break;
             case 5:
-
+                task5.test();
+                break;
+            case 6:
+                task6.test();
+                break;
         }
     }
 }
